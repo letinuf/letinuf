@@ -1,0 +1,1 @@
+<div role="status" class="badge badge-style-type-verified style-scope ytd-badge-supported-renderer style-scope ytd-badge-supported-renderer" aria-label="Verified"><yt-icon size="16" class="style-scope ytd-badge-supported-renderer"><!--css-build:shady--><!--css-build:sha
